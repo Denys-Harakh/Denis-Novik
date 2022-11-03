@@ -212,7 +212,7 @@ img {
     text-align: center;
     font-weight: 400;
     font-size: 18px;
-    line-height: 25px;
+    line-height: 1.39;
 }
 
 .button-wrap {
@@ -262,7 +262,7 @@ transition: all 0.5s ease;
 .final-text {
     font-weight: 400;
     font-size: 14px;
-    line-height: 19px;
+    line-height: 1.36;
     text-align: center;
     color: var(--additional-tex-color);
     padding-bottom: 100px;
